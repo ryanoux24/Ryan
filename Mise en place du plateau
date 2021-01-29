@@ -1,0 +1,8 @@
+Dialogue =[
+   "Voix off : Bonjour et bienvenue au Good Price avec pour présentateur,Vincent Faigaf!",
+   "Vincent Faigaf: BIP BIP",
+   "Le public : OUAIIIII !",
+   "Vincent Faigaf : Et on commence tout de suite avec nos premiers candidats !"
+   "Nous allons tout de suite commencer avec le produit."
+   ]
+   #Ceci sera le diaologue affiché à l'écran
